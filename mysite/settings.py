@@ -25,7 +25,7 @@ SECRET_KEY = '@%mf@6+yj%!mqm=bn3hzwg6a3s81eoyd&u^(9le!5f*17*39v^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mimirogers.pythonanywhere.com']
 
 
 # Application definition
